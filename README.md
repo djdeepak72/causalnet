@@ -1,4 +1,4 @@
-## causalnet
+![](causalNet.png)
 
 `causalnet` is a python package that uses the dragonnet architecture( adapted from Shi, et. al. : https://github.com/claudiashi57/dragonnet) in the backend to build causal inference models for your structured data.
 
